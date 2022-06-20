@@ -13,7 +13,7 @@ def intro():
 #Nate harris 5/24/22 ver 4
 #create the questions and make a true or false 
 def question():
-  global socre
+  
   print ("question 1")
   print ("'kura'")
   print ("does it mean school? true or false")
